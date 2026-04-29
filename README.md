@@ -30,9 +30,9 @@ Currently, I'm pursuing my master's degree.
 </p>
 
 ### Engineering Focus
-* **Architecture:** Clean Architecture, Modular Monolith, Microservices
-* **Patterns:** Domain-Driven Design (DDD), Test-Driven Development (TDD)
-* **Networking:** CCNA Certified (Routing, Switching, Cybersecurity)
+ **Architecture:** Clean Architecture, Modular Monolith, Microservices
+ **Patterns:** Domain-Driven Design (DDD), Test-Driven Development (TDD)
+ **Networking:** CCNA Certified (Routing, Switching, Cybersecurity)
 
 </div>
 
