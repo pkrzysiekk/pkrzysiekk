@@ -1,7 +1,11 @@
 # Hi there 👋 I'm Krzysztof
-I'm a fullstack developer from Poland with engineer's degree in software engineering
+I'm a fullstack developer from Poland with an engineering degree in software engineering.
+Currently, I'm pursuing my master's degree.
+
+<div align="center">
+
 **Languages & Backend**
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -10,7 +14,7 @@ I'm a fullstack developer from Poland with engineer's degree in software enginee
 </p>
 
 **Frontend & Design**
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -18,23 +22,34 @@ I'm a fullstack developer from Poland with engineer's degree in software enginee
 </p>
 
 **DevOps & Tools**
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-## ⚡️ Stats
 
-<br>
+### Engineering Focus
+* **Architecture:** Clean Architecture, Modular Monolith, Microservices
+* **Patterns:** Domain-Driven Design (DDD), Test-Driven Development (TDD)
+* **Networking:** CCNA Certified (Routing, Switching, Cybersecurity)
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=pkrzysiekk&theme=radical&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="pkrzysiekk's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=pkrzysiekk&theme=radical&count_private=true&border_radius=10&locale=en" alt="pkrzysiekk's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=pkrzysiekk&theme=radical&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="pkrzysiekk's Most Used Languages" />
 </div>
 
 <hr>
+
+<div align="center">
+  <h3>GitHub Stats</h3>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pkrzysiekk&theme=radical&count_private=true&show_icons=true&rank_icon=github&locale=en" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pkrzysiekk&theme=radical&count_private=true&border_radius=10&locale=en" />
+  <br>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pkrzysiekk&theme=radical&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://api.visitorbadge.io/api/visitors?path=pkrzysiekk&label=PROFILE%20VIEWS&countColor=%2326312a&style=flat-square" alt="Visitors" />
+</div>
 <!--
 **pkrzysiekk/pkrzysiekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
