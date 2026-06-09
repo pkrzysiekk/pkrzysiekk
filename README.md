@@ -41,7 +41,6 @@ Currently, I'm pursuing my master's degree.
 <div align="center">
   <h3>GitHub Stats</h3>
 
-  <img height="180em"
 <img
   src="https://github-readme-stats.vercel.app/api?username=pkrzysiekk&theme=radical&count_private=true&show_icons=true&hide_rank=true"
 />
