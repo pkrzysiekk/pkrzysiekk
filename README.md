@@ -59,7 +59,6 @@ Currently, I'm pursuing my master's degree.
 </div>
 
 <div align="center">
-  <br />
   <img
     src="https://api.visitorbadge.io/api/visitors?path=pkrzysiekk&label=PROFILE%20VIEWS&countColor=%2326312a&style=flat-square"
   />
