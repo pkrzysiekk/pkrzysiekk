@@ -41,19 +41,26 @@ Currently, I'm pursuing my master's degree.
 <div align="center">
   <h3>GitHub Stats</h3>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=pkrzysiekk&theme=radical&count_private=true&show_icons=true&hide_rank=true"
-/>
-  <img height="180em"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=pkrzysiekk&theme=radical" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pkrzysiekk&theme=radical&count_private=true&show_icons=true&hide_rank=true"
+  />
 
-  <br>
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pkrzysiekk&theme=radical"
+  />
 
-  <img width="400em"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=pkrzysiekk&theme=radical&layout=donut&langs_count=8" />
+  <br /><br />
+
+  <img
+    width="400em"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pkrzysiekk&theme=radical&layout=donut&langs_count=8"
+  />
 </div>
 
 <div align="center">
   <br />
-  <img src="https://api.visitorbadge.io/api/visitors?path=pkrzysiekk&label=PROFILE%20VIEWS&countColor=%2326312a&style=flat-square" />
+  <img
+    src="https://api.visitorbadge.io/api/visitors?path=pkrzysiekk&label=PROFILE%20VIEWS&countColor=%2326312a&style=flat-square"
+  />
 </div>
